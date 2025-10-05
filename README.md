@@ -10,7 +10,7 @@
 - **数据分析**：Python/pandas (RFM分析、统计分析)
 - **数据可视化**：Tableau (4个交互式仪表盘)
 
-#### 阶段一：MySQL — 数据整合与核心指标计算
+## 阶段一：MySQL — 数据整合与核心指标计算
 **目标**：利用SQL的强大查询能力，将多个表连接起来，计算关键业务指标
 
 **数据工程成果**：
@@ -86,7 +86,7 @@ WHERE
 计算字段生成：配送状态、时间维度、总价值等
 数据质量提升：空值处理、异常值过滤
 
-#### 阶段二：Python数据分析
+## 阶段二：Python数据分析
 **目标**：RFM建模与业务洞察
 
 关键业务指标：
@@ -116,3 +116,10 @@ WHERE
 - 🌱 潜力客户 (45.4%) - 有成长空间客户
 - ⏰ 需唤醒客户 (11.9%) - 需要激活客户
 - 📉 流失客户 (27.9%) - 已流失客户
+
+## 阶段三：Tableau数据可视化
+
+### 🔍 业务总览 → 👥 客户分析 → 📦 订单分析 → 💰 支付分析
+
+<div class='tableauPlaceholder' id='viz1759698622723' style='position: relative'><noscript><a href='#'><img alt='业务总览 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_17596982227280&#47;sheet0&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='_17596982227280&#47;sheet0' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;_1&#47;_17596982227280&#47;sheet0&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1759698622723');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1400px';vizElement.style.height='877px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1400px';vizElement.style.height='877px';} else { vizElement.style.width='100%';vizElement.style.height='1727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
