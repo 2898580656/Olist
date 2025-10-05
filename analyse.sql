@@ -327,7 +327,7 @@ FROM optimized_sales_analysis
 WHERE delivery_status != 'other'
 GROUP BY delivery_status;
 
--- 创建新的视图以进行数据清洗
+-- 创建新的视图，用于数据分析
 CREATE OR REPLACE VIEW cleaned_sales_analysis AS
 SELECT 
     DISTINCT order_id,  -- 唯一订单 ID
