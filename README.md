@@ -123,8 +123,8 @@ WHERE
 
 ![GitHub 业务总览](https://github.com/2898580656/Olist-/blob/main/tableau/1.png)
 
-![GitHub 客户分析](https://github.com/2898580656/Olist-/blob/main/tableau/1.png)
+![GitHub 客户分析](https://github.com/2898580656/Olist-/blob/main/tableau/2.png)
 
-![GitHub 订单分析](https://github.com/2898580656/Olist-/blob/main/tableau/1.png)
+![GitHub 订单分析](https://github.com/2898580656/Olist-/blob/main/tableau/3.png)
 
-![GitHub 支付分析](https://github.com/2898580656/Olist-/blob/main/tableau/1.png)
+![GitHub 支付分析](https://github.com/2898580656/Olist-/blob/main/tableau/4.png)
