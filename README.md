@@ -9,6 +9,9 @@
 - **数据工程**：MySQL (数据整合、清洗、ETL)
 - **数据分析**：Python(pandas) (RFM分析、统计分析)
 - **数据可视化**：Tableau (4个交互式仪表盘)
+- 
+## 项目流程图
+![GitHub 业务总览](https://github.com/2898580656/Olist-/blob/main/tableau/5.png)
 
 ## 阶段一：MySQL — 数据整合与核心指标计算
 **目标**：利用SQL的强大查询能力，将多个表连接起来，计算关键业务指标
